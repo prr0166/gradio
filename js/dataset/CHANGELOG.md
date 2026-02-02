@@ -2,6 +2,12 @@
 
 ## 0.5.3
 
+### Dependency updates
+
+- @gradio/utils@0.11.3
+
+## 0.5.3
+
 ### Fixes
 
 - [#12818](https://github.com/gradio-app/gradio/pull/12818) [`6594c9c`](https://github.com/gradio-app/gradio/commit/6594c9c5b2829771f79dc04c6fafb6da72031b90) - Migrate Dataset to Svelte 5.  Thanks @freddyaboulton!

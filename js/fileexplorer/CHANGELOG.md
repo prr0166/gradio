@@ -2,6 +2,12 @@
 
 ## 0.6.2
 
+### Dependency updates
+
+- @gradio/utils@0.11.3
+
+## 0.6.2
+
 ### Fixes
 
 - [#12810](https://github.com/gradio-app/gradio/pull/12810) [`7ed6dfa`](https://github.com/gradio-app/gradio/commit/7ed6dfaad6fa9c8e76a5596b20007dc97ae27ca7) - Migrate js/fileexplorer to svelte5.  Thanks @aliabid94!
